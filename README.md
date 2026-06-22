@@ -6,7 +6,7 @@
     <sub>Distributed systems · AI infra · Fault-tolerant pipelines</sub>
   </p>
   <p>
-    <code>📍 Bangalore, India</code>
+    <code>📍 Pune, India</code>
     ·
     <code>🎯 TSS 482 · Skills in Demand Visa</code>
   </p>
@@ -14,7 +14,7 @@
 
 ---
 
-I architect and ship backend systems at scale — Python, FastAPI, distributed architectures, and agentic AI frameworks. I've cut API latency by 40%, built fault-tolerant pipelines that process millions of records, and designed AI safety infrastructure that runs in production.
+I architect and ship backend systems at scale Python, FastAPI, distributed architectures, and agentic AI frameworks. I've cut API latency by 40%, built fault-tolerant pipelines that process millions of records, and designed AI safety infrastructure that runs in production.
 
 Actively pursuing opportunities in **Australia**. Open to Senior Backend, AI Infrastructure, and Platform Engineering roles.
 
